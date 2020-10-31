@@ -694,3 +694,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.31-01.50.29:414][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
 [2020.10.31-01.52.54:227][951]BlueprintLog: New page: Compile ServerMenu
 [2020.10.31-01.52.54:282][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.10.31-01.53.16:894][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/felld/Documents/Unreal Projects/SteamProject-4.25/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2020.10.31-01.53.16:954][194]LogSavePackage: Moving '../../../../../../Users/felld/Documents/Unreal Projects/SteamProject-4.25/Saved/ServerMenu035C9AE643EFC43156DA83AC232ECC96.tmp' to '../../../../../../Users/felld/Documents/Unreal Projects/SteamProject-4.25/Content/UI/MainMenu/ServerMenu.uasset'
+[2020.10.31-01.53.16:975][194]AssetCheck: New page: Asset Save: ServerMenu
+[2020.10.31-01.53.16:975][194]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/ServerMenu.ServerMenu
